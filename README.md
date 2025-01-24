@@ -8,8 +8,6 @@ I'm a passionate software developer with a love for creating innovative solution
 
 - 🔭 I’m currently working on Document Intelligence Solutions
 - 🌱 I’m mastering AI and Robotic Process Automation
-- 👯 I’m looking to collaborate on projects that solve business problems
-- 💬 Ask me about Software Engineering, Automation, and Product Development
 - 📫 How to reach me: tinojoel9@gmail.com
 
 ## Technologies & Tools
@@ -21,14 +19,6 @@ Here are some of the technologies and tools I work with:
 - Backend Development: ![.NET](https://img.shields.io/badge/-.NET-blue) ![Node.js](https://img.shields.io/badge/-Node.js-green) ![Django](https://img.shields.io/badge/-Django-green)
 - Databases: ![Supabase](https://img.shields.io/badge/-Supabase-black) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue) ![SQL](https://img.shields.io/badge/-SQL-blue)
 - Tools: ![n8n](https://img.shields.io/badge/-n8n-orange) ![Docker](https://img.shields.io/badge/-Docker-blue) ![Git](https://img.shields.io/badge/-Git-red)
-
-## GitHub Stats
-
-![Tinomuchenje's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tinomuchenje&show_icons=true&theme=radical)
-
-## Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tinomuchenje&layout=compact&theme=radical)
 
 ## Let's Connect
 
